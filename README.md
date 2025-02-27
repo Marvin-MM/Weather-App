@@ -12,10 +12,11 @@ A simple weather application that allows users to search for a city and view its
 ## How to Use 🚀
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Marvin-MM/Weather-App.git>
+   git clone https://github.com/Marvin-MM/Weather-App.git
 
 ## Screenshot(Demo)
-   https://github.com/Marvin-MM/Weather-App/blob/main/images/image.png?raw=true
+   ![Weather App Preview](https://github.com/Marvin-MM/Weather-App/blob/main/images/image.png?raw=true)
+
 
 ##  License 📜
 This project is open-source and available under the MIT License.
